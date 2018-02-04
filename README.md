@@ -1,2 +1,2 @@
 # Data-Incubator
-Project proposal
+Project proposal for Data Incubator
