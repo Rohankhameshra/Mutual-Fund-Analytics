@@ -1,2 +1,2 @@
-# Data-Incubator
-Project proposal for Data Incubator
+# Mutual Fund Analytics
+Self Project
